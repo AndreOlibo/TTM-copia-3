@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/teal_200"/> <!-- Color de fondo de la pantalla de bienvenida. -->
+    <item>
+        <bitmap android:src="@drawable/tienda" android:gravity="center"/> <!-- Imagen que se presenta en el centro. -->
+    </item>
+
+</layer-list>
+
+<!-- Información obtenida de https://www.youtube.com/watch?v=ksaaMt8Lo6U -->

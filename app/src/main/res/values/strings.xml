@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TTM</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_precio" />
+    <string name="textview">TextView</string>
+    <string name="marca">Marca</string>
+    <string name="potencia">Potencia</string>
+    <string name="camara">Cámara</string>
+    <string name="precio">Precio</string>
+    <string name="pixeles">Píxeles</string>
+    <string name="ordenado_por_precio">Ordenado por precio</string>
+    <string name="comprar">Comprar</string>
+    <string name="cancelar_compra">Cancelar compra</string>
+    <string name="nombre">Nombre</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+</resources>

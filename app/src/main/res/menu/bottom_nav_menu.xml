@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_marca"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:title="@string/marca" />
+
+    <item
+        android:id="@+id/navigation_potencia"
+        android:icon="@drawable/ic_baseline_memory_24"
+        android:title="@string/potencia" />
+
+    <item
+        android:id="@+id/navigation_pixeles"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/pixeles" />
+
+    <item
+        android:id="@+id/navigation_precio"
+        android:icon="@drawable/ic_baseline_euro_24"
+        android:title="@string/precio" />
+
+</menu>

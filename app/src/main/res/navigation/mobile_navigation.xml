@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_marca">
+
+    <fragment
+        android:id="@+id/navigation_marca"
+        android:name="com.example.ttm.ui.MarcaFragment"
+        android:label="Marca"
+        tools:layout="@layout/fragment_marca" />
+
+    <fragment
+        android:id="@+id/navigation_potencia"
+        android:name="com.example.ttm.ui.PotenciaFragment"
+        android:label="Potencia"
+        tools:layout="@layout/fragment_potencia" />
+
+    <fragment
+        android:id="@+id/navigation_pixeles"
+        android:name="com.example.ttm.ui.PixelesFragment"
+        android:label="Píxeles"
+        tools:layout="@layout/fragment_pixeles" />
+    <fragment
+        android:id="@+id/navigation_precio"
+        android:name="com.example.ttm.ui.PrecioFragment"
+        android:label="Precio"
+        tools:layout="@layout/fragment_precio" />
+</navigation>
